@@ -33,7 +33,6 @@
 .container {
   max-width: 1000px;
   margin: auto;
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -63,4 +62,16 @@
   background-color: #dddddd;
   padding: 5px;
   text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
 }

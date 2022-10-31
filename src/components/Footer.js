@@ -1,5 +1,5 @@
 const Footer = (props) => {
-  return <p> Made with React at Le Reacteur by Andréa</p>
+  return <p> Made with <span>React</span> at <span>Le Reacteur</span> by <span>Andréa</span></p>
 };
 
 export default Footer;
